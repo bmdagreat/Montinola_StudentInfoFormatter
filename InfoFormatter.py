@@ -3,6 +3,7 @@ last_name = input("Enter last name: ")
 section = input("Enter section: ")
 favorite_subject = input("Enter favorite subject: ") 
 
+
 print("\nFormatted Output: ")
 print("Name:", first_name , last_name)
 print("Section:", section)
